@@ -1,0 +1,34 @@
+.body {
+    background-color: rgb(86, 136, 180);
+    padding: 5%;
+}
+
+.catalogo {
+    padding: 4%;
+}
+
+.carousel-main {
+    width: 60vw;
+}
+
+/* pagina producto.ejs */
+.product-details {
+    padding: 4%, 10%;
+}
+
+.product-img {
+    border: 1px solid black;
+    width: 75%;
+}
+
+.product-info {
+    padding-left: 10%;
+    background-color: rgba(66, 150, 150, 0.521);
+}
+.product-card {
+    padding-bottom: 30px;
+}
+.buy {
+    position: absolute;
+    right: 20px;
+}
